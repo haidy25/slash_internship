@@ -1,3 +1,3 @@
 # slash_internship
 
-Slash intership Assessment
+Slash Internship Assessment
